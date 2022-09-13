@@ -1,0 +1,2 @@
+package com.igorsily.audit;public class UserRevEntity {
+}
