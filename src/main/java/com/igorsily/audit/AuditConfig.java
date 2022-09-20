@@ -5,7 +5,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 @Configuration
-public class AuditConfi {
+public class AuditConfig {
 
     @Bean
     public AuthorProvider authorProvider(){
